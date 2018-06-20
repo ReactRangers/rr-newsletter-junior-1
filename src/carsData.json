@@ -1,0 +1,160 @@
+[{
+  "id": "edd69076-8ec9-4e8b-bfcd-1951e85c7974",
+  "carMake": "Chevrolet",
+  "carModel": "Malibu",
+  "carModelYear": 2012,
+  "bodyColor": "#345499",
+  "dealerEmail": "rmcdonnell0@tinypic.com"
+},
+{
+  "id": "6c4879af-9c60-479f-949e-f47b09f97981",
+  "carMake": "Chevrolet",
+  "carModel": "G-Series 3500",
+  "carModelYear": 1997,
+  "bodyColor": "#6d2a5f",
+  "dealerEmail": "gweine1@skyrock.com"
+},
+{
+  "id": "1a7106f9-359c-44ed-b1f9-733a29c33d6f",
+  "carMake": "Scion",
+  "carModel": "xB",
+  "carModelYear": 2005,
+  "bodyColor": "#dc0921",
+  "dealerEmail": "rwisam2@epa.gov"
+},
+{
+  "id": "14563a1f-9048-4f9a-8689-31f5aa1fa57c",
+  "carMake": "Chevrolet",
+  "carModel": "S10",
+  "carModelYear": 2001,
+  "bodyColor": "#03cc0a",
+  "dealerEmail": "bauston3@weather.com"
+},
+{
+  "id": "45548ce2-6417-45bf-b461-ca3e92e6f1e6",
+  "carMake": "GMC",
+  "carModel": "Sonoma Club Coupe",
+  "carModelYear": 1998,
+  "bodyColor": "#670d1b",
+  "dealerEmail": "cbrangan4@moonfruit.com"
+},
+{
+  "id": "4140ab9d-dbf7-479c-a1ec-b4bc0402d34c",
+  "carMake": "Cadillac",
+  "carModel": "DeVille",
+  "carModelYear": 1999,
+  "bodyColor": "#43601d",
+  "dealerEmail": "wsothern5@apache.org"
+},
+{
+  "id": "c8fc9255-8ecb-4950-b841-b0028a34891e",
+  "carMake": "Ford",
+  "carModel": "Explorer",
+  "carModelYear": 2004,
+  "bodyColor": "#74233b",
+  "dealerEmail": "hsenechell6@eepurl.com"
+},
+{
+  "id": "8f78334a-67f3-4d27-b11b-67d25d8fb576",
+  "carMake": "Smart",
+  "carModel": "Fortwo",
+  "carModelYear": 2009,
+  "bodyColor": "#8c6231",
+  "dealerEmail": "mbernuzzi7@fc2.com"
+},
+{
+  "id": "03b5eeef-7c89-4273-9014-37a13afb7528",
+  "carMake": "Pontiac",
+  "carModel": "1000",
+  "carModelYear": 1985,
+  "bodyColor": "#1d6701",
+  "dealerEmail": "tvonnassau8@newsvine.com"
+},
+{
+  "id": "a78331df-1199-4aab-8197-8ff5854ac5fc",
+  "carMake": "Volvo",
+  "carModel": "S40",
+  "carModelYear": 2004,
+  "bodyColor": "#2b39f8",
+  "dealerEmail": "ofluck9@boston.com"
+},
+{
+  "id": "87c0ed6c-e967-4556-b982-9375806aa15b",
+  "carMake": "Chevrolet",
+  "carModel": "Lumina",
+  "carModelYear": 2000,
+  "bodyColor": "#016c5e",
+  "dealerEmail": "msimionia@un.org"
+},
+{
+  "id": "e6d1e6c8-32e9-4dda-a660-a16d2d13cda9",
+  "carMake": "Nissan",
+  "carModel": "Altima",
+  "carModelYear": 2005,
+  "bodyColor": "#457d86",
+  "dealerEmail": "kwaldockb@imageshack.us"
+},
+{
+  "id": "5699bd68-70d1-4c76-b3f0-5b259f441f16",
+  "carMake": "Toyota",
+  "carModel": "Avalon",
+  "carModelYear": 2005,
+  "bodyColor": "#428898",
+  "dealerEmail": "mparchmentc@unesco.org"
+},
+{
+  "id": "2c4292a3-f70f-49f9-8560-e50b1d81c639",
+  "carMake": "Audi",
+  "carModel": "A6",
+  "carModelYear": 2010,
+  "bodyColor": "#fc48eb",
+  "dealerEmail": "eguillotond@ustream.tv"
+},
+{
+  "id": "e831cdf4-98e1-4571-aafc-bb5f9a48396d",
+  "carMake": "Ford",
+  "carModel": "Explorer",
+  "carModelYear": 1992,
+  "bodyColor": "#ec8b5c",
+  "dealerEmail": "heltonee@furl.net"
+},
+{
+  "id": "55a978d4-fef7-4f47-ab96-7c709bacda4a",
+  "carMake": "Ford",
+  "carModel": "Mustang",
+  "carModelYear": 1993,
+  "bodyColor": "#a46f8c",
+  "dealerEmail": "sdeglanvillef@ebay.co.uk"
+},
+{
+  "id": "fae63c75-f406-4385-9a53-4c1cba968dfc",
+  "carMake": "BMW",
+  "carModel": "X5",
+  "carModelYear": 2002,
+  "bodyColor": "#df0bd2",
+  "dealerEmail": "alaveryg@epa.gov"
+},
+{
+  "id": "f3f3e5d6-7e5d-4746-b600-04722786d0f9",
+  "carMake": "Aston Martin",
+  "carModel": "Vantage",
+  "carModelYear": 2007,
+  "bodyColor": "#e1988d",
+  "dealerEmail": "vsprullsh@gmpg.org"
+},
+{
+  "id": "a329e759-e53c-4bee-811b-2d6bf3bafa9c",
+  "carMake": "Jaguar",
+  "carModel": "XJ Series",
+  "carModelYear": 1994,
+  "bodyColor": "#04f0f9",
+  "dealerEmail": "smummi@disqus.com"
+},
+{
+  "id": "3132b9fe-f045-4001-9a5b-ba7050ea12e4",
+  "carMake": "Lexus",
+  "carModel": "IS F",
+  "carModelYear": 2010,
+  "bodyColor": "#b1d942",
+  "dealerEmail": "jslayj@instagram.com"
+}]
