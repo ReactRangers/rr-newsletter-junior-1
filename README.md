@@ -14,8 +14,8 @@ programming skills and get professional code review, we'll be very happy to see 
 
 ### The task
 
-Your task is to implement the `CarsDataTable` component in [src/CarsDataTable.js](). This component
-receives the list of cars in props as `cars` (populated from [src/carsData.json]()). Each item of
+Your task is to implement the `CarsDataTable` component in [src/CarsDataTable.js](src/CarsDataTable.js). This component
+receives the list of cars in props as `cars` (populated from [src/carsData.json](src/carsData.json)). Each item of
 the list should be rendered as a separate row and each cell should be formatted accordingly to
 the data it stores. Remember to keep your components small and avoid code duplication.
 
