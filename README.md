@@ -10,6 +10,8 @@ programming skills and get professional code review, we'll be very happy to see 
 
 ### Running
 
+Make sure you run `npm install` first to install the dependencies.
+
 [npm start](GUIDE.md#npm-start)
 
 ### The task
