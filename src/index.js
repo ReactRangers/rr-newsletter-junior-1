@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import registerServiceWorker from './registerServiceWorker';
+import './index.scss';
+import PractiseRange from './components/environments/PractiseRange';
+//import 'typeface-lato';
 
-ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+ReactDOM.render(<PractiseRange />, document.getElementById('root'));
