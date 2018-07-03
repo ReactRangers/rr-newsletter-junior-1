@@ -1,0 +1,98 @@
+.app {
+    display: flex;
+    flex-flow: column;
+    flex: 1 0 100%;
+    text-align: center;
+}
+
+.logo{
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+}
+.header{
+    flex: 0 1 auto;
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+}
+.title{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+.subHeader{
+    font-size: 1em;
+    margin-top: 0;
+}
+.intro{
+    font-size: large;
+}
+main.display{
+    display: flex;
+    flex: 1 0 auto;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);
+    background-size: 400% 400%;
+    -webkit-animation: Gradient 15s ease infinite;
+    -moz-animation: Gradient 15s ease infinite;
+    animation: Gradient 15s ease infinite;
+    justify-content: center;
+    & > section{
+        padding: 60px;
+        font-weight: 700;
+        color: white;
+    }
+}
+
+.clock-settings{
+    margin-bottom: 10px;
+}
+.clock-settings__radio{
+    margin-bottom: 6px;
+}
+.clock-settings__radio label{
+    display: flex;
+}
+.clock-content{
+    font-size: 60px;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+@-webkit-keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@-moz-keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@keyframes Gradient {
+    0% {
+        background-position: 0% 50%
+    }
+    50% {
+        background-position: 100% 50%
+    }
+    100% {
+        background-position: 0% 50%
+    }
+}

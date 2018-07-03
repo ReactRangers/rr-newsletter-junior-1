@@ -1,0 +1,23 @@
+.singleInput{
+  text-align: center;
+  flex: 1 0 100%;
+  padding: 0;
+  line-height: 32px;
+  font-size: 1em;
+  border: none;
+  background-color: rgba(white, 0.6);
+  outline: none;
+  transition: background-color linear 0.2s;
+  &::placeholder{
+    transition: background-color linear 0.2s;
+    font-weight: 600;
+    color: black;
+  }
+  &:focus,
+  &:hover{
+    background-color: rgba(white, 1);
+    &::placeholder{
+      color: white;
+    }
+  }
+}
